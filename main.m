@@ -11,8 +11,7 @@
 %   Also solves the same problem using SEA and FEM via modal superposition. 
 %   It then stores all three results for later comparison. 
 %   This code is supplemental material to the article "A hybrid radiative 
-%   transfer - SEA theory for point-coupled subsystems", submitted to the 
-%   Journal of the Royal Society A.
+%   transfer - SEA theory for point-coupled subsystems".
 %
 % LICENSE:
 %   Copyright (c) 2025 Jannik Theyssen, LVA, INSA Lyon, FR.
